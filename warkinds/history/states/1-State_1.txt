@@ -1,0 +1,14 @@
+state={
+	id=1
+	name="STATE_1"
+	manpower = 1000000
+	state_category = megalopolis
+	history={
+		owner = TST
+		add_core_of = TST
+	}
+	provinces={
+		29 363 365 922 1200 1389 3228 3611 3619 3622 3627 
+	}
+
+}
