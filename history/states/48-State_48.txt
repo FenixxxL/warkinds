@@ -1,0 +1,21 @@
+state={
+	id=48
+	name="STATE_48"
+	manpower = 328
+		
+	state_category = tiny_island
+	history={
+		owner = HUM
+		victory_points = {
+			3550 5
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = HUM
+	}
+	provinces={
+		3550 
+	}
+	local_supplies=6.0
+}

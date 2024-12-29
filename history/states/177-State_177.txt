@@ -1,0 +1,18 @@
+state={
+	id=177
+	name="STATE_177"
+	manpower=8700
+	impassable = yes
+	state_category = wasteland
+	history={
+		owner = LCS
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LCS
+	}
+	provinces={
+		587 800 1055 1398 1501 2069 2578 2585 2599 2615 
+	}
+	local_supplies=6.0
+}

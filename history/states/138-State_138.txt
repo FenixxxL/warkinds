@@ -1,0 +1,24 @@
+state={
+	id=138
+	name="STATE_138"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SAR
+		victory_points = {
+			2543 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = SAR
+	}
+	provinces={
+		252 1129 2007 2164 2226 2543 
+	}
+	local_supplies=6.0
+}

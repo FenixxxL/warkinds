@@ -1,0 +1,24 @@
+state={
+	id=365
+	name="STATE_365"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = CSF
+		victory_points = {
+			841 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = CSF
+	}
+	provinces={
+		175 841 970 1146 1651 1892 1895 2097 2252 3186 3188 3216 3254 
+	}
+	local_supplies=6.0
+}

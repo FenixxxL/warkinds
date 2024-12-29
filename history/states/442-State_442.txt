@@ -1,0 +1,24 @@
+state={
+	id=442
+	name="STATE_442"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = WBA
+		victory_points = {
+			736 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = WBA
+	}
+	provinces={
+		736 2008 2025 3436 3439 
+	}
+	local_supplies=6.0
+}

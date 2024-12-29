@@ -1,0 +1,23 @@
+state={
+	id=315
+	name="STATE_315"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = CLF
+		victory_points = {
+			1388 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = CLF
+	}
+	provinces={
+		1040 1388 3033 3040 3091 
+	}
+	local_supplies=6.0
+}

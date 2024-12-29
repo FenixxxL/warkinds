@@ -1,0 +1,24 @@
+state={
+	id=123
+	name="STATE_123"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = OWH
+		victory_points = {
+			1140 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = OWH
+	}
+	provinces={
+		807 893 1140 2200 2246 2497 2505 2511 2528 
+	}
+	local_supplies=6.0
+}

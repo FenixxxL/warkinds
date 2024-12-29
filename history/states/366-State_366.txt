@@ -1,0 +1,24 @@
+state={
+	id=366
+	name="STATE_366"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = DOW
+		victory_points = {
+			3220 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = DOW
+	}
+	provinces={
+		789 814 1274 1454 2390 3156 3198 3207 3220 3253 3552 
+	}
+	local_supplies=6.0
+}

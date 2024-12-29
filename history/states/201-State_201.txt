@@ -1,0 +1,21 @@
+state={
+	id=201
+	name="STATE_201"
+	manpower=1255
+	impassable = yes
+	state_category = wasteland
+	history={
+		owner = DRM
+		victory_points = {
+			2660 1
+		}
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = DRM
+	}
+	provinces={
+		68 324 433 597 1024 1212 1381 1394 2021 2207 2342 2381 2655 2660 2662 2669 2676 2681 2699 2712 
+	}
+	local_supplies=6.0
+}

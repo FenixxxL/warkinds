@@ -1,0 +1,107 @@
+HUM = {
+	male = {
+		names = { 
+		    Illarion Lilithian Garrett Damir Lukar Severin Terrence Valerian Carlos Steradian Arkady Darius
+            Vivian Cassius Torin Artem Verren Fannin Dantes Galadriel Edmund Rylan Vincent Tiberius Lorelei
+			Alaric Gabriel Guardian Arek Emmeline Leonardo Markell Fenris Rodrigo Gwyneth Leonid Garrett Persephone
+			Valentine Roderick Gwendolyn Alec Raphael Arlene Teddy Summer Simon Gabrielle Rivendell Eleanor Greathelm
+			Ingrid Lawrence Gustav Werner Artaniel Excalibur
+		}
+		surnames = {
+		    Dragons Marked Thunderous Stonehearted Lyutov Darkflame Shielded Sawmill Frosty Steel Bloody Blackwinged
+			Berserkers Kamneruka Flamethrower Flameeyed Shadowwolf Drummer Windbreaker Zheleznogorsk Stonecop Icebreaker
+			Lightningstorm Rumbler Skuwicolapse
+		}
+		callsigns = {
+		    Swordsman Warrior Halberd Knight Hunter Gladiator Magician Leader Colossus Killer Nomad Defender Fiery
+			Shooter Silent Winged Warrior Druid Barbarian Steel Alchemist Shadow Troll Demon
+		}
+	}
+	female = {
+		names = { 
+	        Eliana Arielle Lily Sarafina Isabelle Evelina Fiora Xenia Amelia Lorelai Guinevere Eliza Selena
+			Veronika Melissa Annabelle Lavinia Rosalind Juliana Yasmin Karina Louise Daphne Rebecca Angelica
+		}
+		surnames = {
+            Silverstream Starfall Moonrova Zlatopera Bloodarkness Yastrebitskaya Midnight Foreshoir Winterind
+			Firerrow Roadraffic Krylovsun Blackgray Lakeily Mainline Icetar Burningeart Thunderstorm Stoneblade
+			Windysong Razorflame Flikerbrightnes Swirlingshadow Stonefist Twilight
+	    }
+		callsigns = { 
+		    Queen Princess Core Witch Star Killer Ice Arrow Air Moon Eagle Dragon Iron Solar Desert Fiery Black
+			Sea Cold Goddess Nymph Flying Magic Stone Herbal Ghost Scarlet
+		}
+	}
+}
+
+HED = {
+	male = {
+		names = {
+		    Illarion Lilithian Garrett Damir Lukar Severin Terrence Valerian Carlos Steradian Arkady Darius
+            Vivian Cassius Torin Artem Verren Fannin Dantes Galadriel Edmund Rylan Vincent Tiberius Lorelei
+			Alaric Gabriel Guardian Arek Emmeline Leonardo Markell Fenris Rodrigo Gwyneth Leonid Garrett Persephone
+			Valentine Roderick Gwendolyn Alec Raphael Arlene Teddy Summer Simon Gabrielle Rivendell Eleanor Greathelm
+			Ingrid Lawrence Gustav Werner Artaniel Excalibur
+		}
+		surnames = {
+		    Dragons Marked Thunderous Stonehearted Lyutov Darkflame Shielded Sawmill Frosty Steel Bloody Blackwinged
+			Berserkers Kamneruka Flamethrower Flameeyed Shadowwolf Drummer Windbreaker Zheleznogorsk Stonecop Icebreaker
+			Lightningstorm Rumbler Skuwicolapse
+		}
+		callsigns = {
+		    Swordsman Warrior Halberd Knight Hunter Gladiator Magician Leader Colossus Killer Nomad Defender Fiery
+			Shooter Silent Winged Warrior Druid Barbarian Steel Alchemist Shadow Troll Demon
+		}
+	}
+	female = {
+		names = {
+	        Eliana Arielle Lily Sarafina Isabelle Evelina Fiora Xenia Amelia Lorelai Guinevere Eliza Selena
+			Veronika Melissa Annabelle Lavinia Rosalind Juliana Yasmin Karina Louise Daphne Rebecca Angelica
+		}
+		surnames = {
+            Silverstream Starfall Moonrova Zlatopera Bloodarkness Yastrebitskaya Midnight Foreshoir Winterind
+			Firerrow Roadraffic Krylovsun Blackgray Lakeily Mainline Icetar Burningeart Thunderstorm Stoneblade
+			Windysong Razorflame Flikerbrightnes Swirlingshadow Stonefist Twilight
+	    }
+		callsigns = {
+		    Queen Princess Core Witch Star Killer Ice Arrow Air Moon Eagle Dragon Iron Solar Desert Fiery Black
+			Sea Cold Goddess Nymph Flying Magic Stone Herbal Ghost Scarlet
+		}
+	}
+}
+
+HED = {
+	male = {
+		names = {
+		    Illarion Lilithian Garrett Damir Lukar Severin Terrence Valerian Carlos Steradian Arkady Darius
+            Vivian Cassius Torin Artem Verren Fannin Dantes Galadriel Edmund Rylan Vincent Tiberius Lorelei
+			Alaric Gabriel Guardian Arek Emmeline Leonardo Markell Fenris Rodrigo Gwyneth Leonid Garrett Persephone
+			Valentine Roderick Gwendolyn Alec Raphael Arlene Teddy Summer Simon Gabrielle Rivendell Eleanor Greathelm
+			Ingrid Lawrence Gustav Werner Artaniel Excalibur
+		}
+		surnames = {
+		    Dragons Marked Thunderous Stonehearted Lyutov Darkflame Shielded Sawmill Frosty Steel Bloody Blackwinged
+			Berserkers Kamneruka Flamethrower Flameeyed Shadowwolf Drummer Windbreaker Zheleznogorsk Stonecop Icebreaker
+			Lightningstorm Rumbler Skuwicolapse
+		}
+		callsigns = {
+		    Swordsman Warrior Halberd Knight Hunter Gladiator Magician Leader Colossus Killer Nomad Defender Fiery
+			Shooter Silent Winged Warrior Druid Barbarian Steel Alchemist Shadow Troll Demon
+		}
+	}
+	female = {
+		names = {
+	        Eliana Arielle Lily Sarafina Isabelle Evelina Fiora Xenia Amelia Lorelai Guinevere Eliza Selena
+			Veronika Melissa Annabelle Lavinia Rosalind Juliana Yasmin Karina Louise Daphne Rebecca Angelica
+		}
+		surnames = {
+            Silverstream Starfall Moonrova Zlatopera Bloodarkness Yastrebitskaya Midnight Foreshoir Winterind
+			Firerrow Roadraffic Krylovsun Blackgray Lakeily Mainline Icetar Burningeart Thunderstorm Stoneblade
+			Windysong Razorflame Flikerbrightnes Swirlingshadow Stonefist Twilight
+	    }
+		callsigns = {
+		    Queen Princess Core Witch Star Killer Ice Arrow Air Moon Eagle Dragon Iron Solar Desert Fiery Black
+			Sea Cold Goddess Nymph Flying Magic Stone Herbal Ghost Scarlet
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state={
+	id=69
+	name="STATE_69"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = IBA
+		victory_points = {
+			1462 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = IBA
+	}
+	provinces={
+		1462 1532 3422 3428 3431 
+	}
+	local_supplies=6.0
+}

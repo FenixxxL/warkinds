@@ -1,0 +1,24 @@
+state={
+	id=68
+	name="STATE_68"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = WBA
+		victory_points = {
+			1353 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = WBA
+	}
+	provinces={
+		108 223 953 1143 1353 3462 3480 
+	}
+	local_supplies=6.0
+}

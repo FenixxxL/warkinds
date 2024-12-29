@@ -1,0 +1,23 @@
+state={
+	id=107
+	name="STATE_107"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = PIW
+		victory_points = {
+			2215 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = PIW
+	}
+	provinces={
+		57 1470 1925 2215 
+	}
+	local_supplies=6.0
+}

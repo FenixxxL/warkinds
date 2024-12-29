@@ -1,0 +1,24 @@
+state={
+	id=371
+	name="STATE_371"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = MAH
+		victory_points = {
+			754 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = MAH
+	}	
+	provinces={
+		624 627 754 1611 2244 3250 3265 
+	}
+	local_supplies=6.0
+}

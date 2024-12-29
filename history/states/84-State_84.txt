@@ -1,0 +1,23 @@
+state={
+	id=84
+	name="STATE_84"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = TFW
+		victory_points = {
+			264 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = TFW
+	}
+	provinces={
+		264 337 581 639 
+	}
+	local_supplies=6.0
+}

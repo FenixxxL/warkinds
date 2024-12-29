@@ -1,0 +1,24 @@
+state={
+	id=305
+	name="STATE_305"
+	manpower=250000
+
+    state_category = town
+	history={
+		owner = HUM
+		victory_points = {
+			1736 5
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = HUM
+	}
+	
+	provinces={
+		59 346 659 1601 1699 1736 2084 2124 2263 2289 3012 3059 3080 3097 
+	}
+	local_supplies=6.0
+}

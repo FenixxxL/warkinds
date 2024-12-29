@@ -1,0 +1,23 @@
+state={
+	id=14
+	name="STATE_14"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = TFW
+		victory_points = {
+			1577 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = TFW
+	}
+	provinces={
+		1577 1716 
+	}
+	local_supplies=6.0
+}

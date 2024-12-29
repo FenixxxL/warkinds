@@ -1,0 +1,18 @@
+state={
+	id=148
+	name="STATE_148"
+	manpower=1470
+	impassable = yes
+	state_category = wasteland
+	history={
+		owner = GWP
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = GWP
+	}
+	provinces={
+		577 826 1034 1298 1592 1766 2265 2531 2539 2540 2564 
+	}
+	local_supplies=6.0
+}

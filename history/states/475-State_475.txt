@@ -1,0 +1,24 @@
+state={
+	id=475
+	name="STATE_475"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = EBA
+		victory_points = {
+			3521 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = EBA
+	}
+	provinces={
+		174 250 251 485 511 1137 1713 1909 2053 2222 3521 
+	}
+	local_supplies=6.0
+}

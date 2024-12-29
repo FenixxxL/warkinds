@@ -1,0 +1,24 @@
+state={
+	id=155
+	name="STATE_155"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = WHI
+		victory_points = {
+			340 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = WHI
+	}
+	provinces={
+		49 340 621 691 1318 1731 1906 2574 
+	}
+	local_supplies=6.0
+}

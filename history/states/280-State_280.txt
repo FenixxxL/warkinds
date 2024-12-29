@@ -1,0 +1,23 @@
+state={
+	id=280
+	name="STATE_280"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = GWC
+		victory_points = {
+			1832 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = GWC
+	}
+	provinces={
+		70 118 386 892 1227 1832 2905 2909 2941 2952 2960 
+	}
+	local_supplies=6.0
+}

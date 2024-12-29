@@ -1,0 +1,29 @@
+state={
+	id=214
+	name="STATE_214"
+	manpower = 3750158
+	
+	state_category = metropolis
+    history={
+		owner = LIN
+		victory_points = {
+			1443 5
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 1
+			dockyard = 3
+			air_base = 10
+			2744 ={
+				naval_base = 10
+				coastal_bunker = 5
+			}
+		}
+		add_core_of = LIN
+	}
+	provinces={
+		182 183 615 762 1443 1697 1775 1837 2326 2373 2706 2744 2760 2767 
+	}
+	local_supplies=6.0
+}

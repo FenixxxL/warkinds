@@ -1,0 +1,24 @@
+state={
+	id=338
+	name="STATE_338"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = PIN
+		victory_points = {
+			253 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = PIN
+	}	
+	provinces={
+		58 253 401 3110 3128 3140 
+	}
+	local_supplies=6.0
+}

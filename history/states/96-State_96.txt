@@ -1,0 +1,23 @@
+state={
+	id=96
+	name="STATE_96"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = PIW
+		victory_points = {
+			2095 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = PIW
+	}
+	provinces={
+		134 935 2095 
+	}
+	local_supplies=6.0
+}

@@ -1,0 +1,24 @@
+state={
+	id=70
+	name="STATE_70"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = WAT
+		victory_points = {
+			1727 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = WAT
+	}
+	provinces={
+		2523 1727 
+	}
+	local_supplies=6.0
+}

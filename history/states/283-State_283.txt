@@ -1,0 +1,23 @@
+state={
+	id=283
+	name="STATE_283"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = MOE
+		victory_points = {
+			1547 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = MOE
+	}
+	provinces={
+		168 379 957 1547 2203 2918 2920 2999 3013 
+	}
+	local_supplies=6.0
+}

@@ -1,0 +1,23 @@
+state={
+	id=175
+	name="STATE_175"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = LCS
+		victory_points = {
+			2592 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = LCS
+	}
+	provinces={
+		34 664 1436 1471 2592 
+	}
+	local_supplies=6.0
+}

@@ -1,0 +1,24 @@
+state={
+	id=290
+	name="STATE_290"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = LON
+		victory_points = {
+			2961 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = LON
+	}		
+	provinces={
+		334 468 886 1220 1285 1313 1328 1355 2138 2147 2961 2988 2990 
+	}
+	local_supplies=6.0
+}

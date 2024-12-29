@@ -1,0 +1,24 @@
+state={
+	id=333
+	name="STATE_333"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = WRE
+		victory_points = {
+			525 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = WRE
+	}
+	provinces={
+		414 525 901 1364 1475 1723 1976 3107 3149 
+	}
+	local_supplies=6.0
+}

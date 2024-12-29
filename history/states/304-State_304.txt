@@ -1,0 +1,26 @@
+state={
+	id=304
+	name="STATE_304"
+	manpower = 15000
+	
+	state_category = megalopolis
+	resources={
+		oil=4
+	}
+	
+	history={
+		owner = HUM
+		victory_points = {
+			873 5
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = HUM
+	}
+	
+	provinces={
+		266 294 363 873 1017 1022 1046 1175 1361 3025 3047 3062 3096 
+	}
+	local_supplies=6.0
+}

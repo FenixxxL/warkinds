@@ -1,0 +1,23 @@
+state={
+	id=167
+	name="STATE_167"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SEW
+		victory_points = {
+			1207 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = SEW
+	}
+	provinces={
+		981 1207 2331 
+	}
+	local_supplies=6.0
+}

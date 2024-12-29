@@ -1,0 +1,23 @@
+state={
+	id=170
+	name="STATE_170"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = FIG
+		victory_points = {
+			1772  5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = FIG
+	}
+	provinces={
+		21 1185 1772 2217 2596 2610 2625 
+	}
+	local_supplies=6.0
+}

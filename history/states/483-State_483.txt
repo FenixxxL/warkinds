@@ -1,0 +1,18 @@
+state={
+	id=483
+	name="STATE_483"
+	manpower=1500
+	impassable = yes
+	state_category = wasteland
+	history={
+		owner = PIW
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = PIW
+	}
+	provinces={
+		930 1101 2471 
+	}
+	local_supplies=6.0
+}

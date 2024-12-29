@@ -1,0 +1,23 @@
+state={
+	id=238
+	name="STATE_238"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SAN
+		victory_points = {
+			1815 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = SAN
+	}
+	provinces={
+		26 148 478 1327 1674 1815 2820 2857 
+	}
+	local_supplies=6.0
+}

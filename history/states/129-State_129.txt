@@ -1,0 +1,24 @@
+state={
+	id=129
+	name="STATE_129"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = CAL
+		victory_points = {
+			870 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = CAL
+	}
+	provinces={
+		296 349 870 1020 1513 2486 
+	}
+	local_supplies=6.0
+}

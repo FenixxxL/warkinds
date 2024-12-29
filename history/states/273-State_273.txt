@@ -1,0 +1,23 @@
+state={
+	id=273
+	name="STATE_273"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = FIG
+		victory_points = {
+			429 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = FIG
+	}
+	provinces={
+		120 429 2014 2688 2707 2714 2738 
+	}
+	local_supplies=6.0
+}

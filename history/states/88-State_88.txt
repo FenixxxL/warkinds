@@ -1,0 +1,23 @@
+state={
+	id=88
+	name="STATE_88"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = TFW
+		victory_points = {
+			1016 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = TFW
+	}
+	provinces={
+		111 332 1016 2413 
+	}
+	local_supplies=6.0
+}

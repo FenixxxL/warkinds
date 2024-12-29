@@ -1,0 +1,24 @@
+state={
+	id=416
+	name="STATE_416"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = BIG
+		victory_points = {
+			620 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = BIG
+	}
+	provinces={
+		620 2189 3372 3379 
+	}
+	local_supplies=6.0
+}

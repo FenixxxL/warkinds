@@ -1,0 +1,24 @@
+state={
+	id=36
+	name="STATE_36"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = FTN
+		victory_points = {
+			3545 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = FTN
+	}
+	provinces={
+		3544 3545 
+	}
+	local_supplies=6.0
+}

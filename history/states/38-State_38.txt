@@ -1,0 +1,23 @@
+state={
+	id=38
+	name="STATE_38"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = MAW
+		victory_points = {
+			497 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = MAW
+	}
+	provinces={
+		281 333 497 558 906 1913 1956 2534 2546 2563 2576 
+	}
+	local_supplies=6.0
+}

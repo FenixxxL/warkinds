@@ -1,0 +1,24 @@
+state={
+	id=472
+	name="STATE_472"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = FBA
+		victory_points = {
+			2036 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = FBA
+	}
+	provinces={
+		700 1012 1687 2036 3511 3513 3514 3516 3520 
+	}
+	local_supplies=6.0
+}

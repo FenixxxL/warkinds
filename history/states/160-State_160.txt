@@ -1,0 +1,24 @@
+state={
+	id=160
+	name="STATE_160"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = RIV
+		victory_points = {
+			1068 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = RIV
+	}
+	provinces={
+		422 830 1068 2121 2245 2566
+	}
+	local_supplies=6.0
+}

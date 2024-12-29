@@ -1,0 +1,24 @@
+state={
+	id=474
+	name="STATE_474"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = PBA
+		victory_points = {
+			2236 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = PBA
+	}
+	provinces={
+		677 737 1656 1784 2236 2304 
+	}
+	local_supplies=6.0
+}

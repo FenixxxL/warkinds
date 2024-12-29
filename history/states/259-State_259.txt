@@ -1,0 +1,24 @@
+state={
+	id=259
+	name="STATE_259"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = KNO
+		victory_points = {
+			2934 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = KNO
+	}	
+	provinces={
+		554 1142 1428 1465 1570 1844 2919 2934 2943 2948 2958 2969 
+	}
+	local_supplies=6.0
+}

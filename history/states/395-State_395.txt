@@ -1,0 +1,24 @@
+state={
+	id=395
+	name="STATE_395"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = DOW
+		victory_points = {
+			3316 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = DOW
+	}
+	provinces={
+		277 721 1390 1600 3299 3316 
+	}
+	local_supplies=6.0
+}

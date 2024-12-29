@@ -1,0 +1,23 @@
+state={
+	id=220
+	name="STATE_220"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = BIT
+		victory_points = {
+			536 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = BIT
+	}
+	provinces={
+		536 1193 2784 2822 2826 
+	}
+	local_supplies=6.0
+}

@@ -1,0 +1,24 @@
+state={
+	id=98
+	name="STATE_98"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = NTU
+		victory_points = {
+			2444 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = NTU
+	}
+	provinces={
+		833 1216 1437 2438 2444 2455 
+	}
+	local_supplies=6.0
+}

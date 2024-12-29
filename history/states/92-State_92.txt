@@ -1,0 +1,23 @@
+state={
+	id=92
+	name="STATE_92"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = CNP
+		victory_points = {
+			2303 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = CNP
+	}
+	provinces={
+		387 1280 2018 2303 2404 
+	}
+	local_supplies=6.0
+}

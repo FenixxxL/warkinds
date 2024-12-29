@@ -1,0 +1,22 @@
+state={
+	id=326
+	name="STATE_326"
+	manpower = 9100
+		
+	state_category = rural
+	history={
+		owner = HUM
+		victory_points = {
+			1411 5
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = HUM
+	}
+	
+	provinces={
+		323 1411 1561 1640 1694 2027 2122 3112 3134 3147 
+	}
+	local_supplies=6.0
+}

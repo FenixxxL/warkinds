@@ -1,0 +1,15 @@
+characters = {
+	HUM_trace_legacy = {
+		name = HUM_trace_legacy
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/HUM/Trace_legacy.tga"
+			}
+		}
+		country_leader = {
+			ideology = gen_nazism
+			expire = "540.8.1.1"
+			id = -1
+		}
+	}
+}

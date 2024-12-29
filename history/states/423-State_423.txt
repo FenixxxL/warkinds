@@ -1,0 +1,24 @@
+state={
+	id=423
+	name="STATE_423"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = TCA
+		victory_points = {
+			1044 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = TCA
+	}
+	provinces={
+		1044 1997 2223 3380 
+	}
+	local_supplies=6.0
+}

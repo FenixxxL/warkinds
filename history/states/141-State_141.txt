@@ -1,0 +1,24 @@
+state={
+	id=141
+	name="STATE_141"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = FTN
+		victory_points = {
+			1234 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = FTN
+	}
+	provinces={
+		137 1234 1250 2509 2521 2532 2547 
+	}
+	local_supplies=6.0
+}

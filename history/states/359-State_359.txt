@@ -1,0 +1,22 @@
+state={
+	id=359
+	name="STATE_359"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = HED
+		victory_points = {
+			2383 5
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = HED
+	}
+	
+	provinces={
+		705 1168 1452 1692 1963 2060 2116 2383 3150 3174 3181 3222 
+	}
+	local_supplies=6.0
+}

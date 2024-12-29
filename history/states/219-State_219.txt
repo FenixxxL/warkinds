@@ -1,0 +1,23 @@
+state={
+	id=219
+	name="STATE_219"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = NFW
+		victory_points = {
+			505 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = NFW
+	}
+	provinces={
+		494 505 2715 2742 2769 
+	}
+	local_supplies=6.0
+}

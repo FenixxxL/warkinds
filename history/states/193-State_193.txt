@@ -1,0 +1,23 @@
+state={
+	id=193
+	name="STATE_193"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = MAW
+		victory_points = {
+			2001 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = MAW
+	}
+	provinces={
+		616 934 2001 2212 2221 2671 2696 
+	}
+	local_supplies=6.0
+}

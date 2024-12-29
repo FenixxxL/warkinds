@@ -1,0 +1,24 @@
+state={
+	id=60
+	name="STATE_60"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = ODR
+		victory_points = {
+			2033 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = ODR
+	}
+	provinces={
+		25 501 541 646 1814 2033 3354 3365 3371 
+	}
+	local_supplies=6.0
+}

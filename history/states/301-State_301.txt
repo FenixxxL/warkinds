@@ -1,0 +1,23 @@
+state={
+	id=301
+	name="STATE_301"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = GWC
+		victory_points = {
+			3060 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = GWC
+	}
+	provinces={
+		35 460 3042 3060 3071 3088 
+	}
+	local_supplies=6.0
+}

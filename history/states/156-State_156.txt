@@ -1,0 +1,24 @@
+state={
+	id=156
+	name="STATE_156"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SHR
+		victory_points = {
+			1936 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = SHR
+	}
+	provinces={
+		734 785 1314 1431 1825 1936 2109 2463 2483 
+	}
+	local_supplies=6.0
+}

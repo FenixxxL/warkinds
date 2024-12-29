@@ -1,0 +1,24 @@
+state={
+	id=166
+	name="STATE_166"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = WHI
+		victory_points = {
+			1620 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = WHI
+	}
+	provinces={
+		46 100 1369 1620 1982 2567 2589 2594 
+	}
+	local_supplies=6.0
+}

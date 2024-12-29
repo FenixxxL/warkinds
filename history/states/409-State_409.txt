@@ -1,0 +1,24 @@
+state={
+	id=409
+	name="STATE_409"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = DOF
+		victory_points = {
+			911 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = DOG
+	}
+	provinces={
+		846 867 911 1521 1569 1864 3338 3348 3349 3364 3369 
+	}
+	local_supplies=6.0
+}

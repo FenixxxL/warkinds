@@ -1,0 +1,24 @@
+state={
+	id=231
+	name="STATE_231"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = LEI
+		victory_points = {
+			2810 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = LEI
+	}
+	provinces={
+		679 1610 1931 2773 2791 2810 2837 
+	}
+	local_supplies=6.0
+}

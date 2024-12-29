@@ -1,0 +1,28 @@
+state={
+	id=264
+	name="STATE_264"
+	manpower = 82000
+		
+	state_category = large_town
+	resources={
+		chromium=2
+	}
+	
+	history={
+		owner = HUM
+		victory_points = {
+			381 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = HUM
+	}
+	
+	provinces={
+		31 215 235 381 1264 1266 1886 1929 1996 2890 2894 2913 2927 2940 2949 2968 2972 2977 
+	}
+	local_supplies=6.0
+}

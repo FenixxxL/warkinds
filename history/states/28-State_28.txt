@@ -1,0 +1,24 @@
+state={
+	id=28
+	name="STATE_28"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SNO
+		victory_points = {
+			3537 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = SNO
+	}
+	provinces={
+		3537 
+	}
+	local_supplies=6.0
+}

@@ -1,0 +1,24 @@
+state={
+	id=372
+	name="STATE_372"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SIB
+		victory_points = {
+			450 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = SIB
+	}	
+	provinces={
+		72 326 450 816 1138 1489 1493 2086 2149 3241 3249 3258 3267 3279 3284 
+	}
+	local_supplies=6.0
+}

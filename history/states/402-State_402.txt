@@ -1,0 +1,24 @@
+state={
+	id=402
+	name="STATE_402"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = LIO
+		victory_points = {
+			1198 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = LIO
+	}
+	provinces={
+		233 1039 1116 1198 2129 2183 3352 
+	}
+	local_supplies=6.0
+}

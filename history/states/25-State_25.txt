@@ -1,0 +1,24 @@
+state={
+	id=25
+	name="STATE_25"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SHR
+		victory_points = {
+			1448 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = SHR
+	}
+	provinces={
+		572 769 1448 2333 2442 
+	}
+	local_supplies=6.0
+}

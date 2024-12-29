@@ -1,0 +1,23 @@
+state={
+	id=207
+	name="STATE_207"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = NFW
+		victory_points = {
+			1940 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = NFW
+	}
+	provinces={
+		1251 1323 1940 2734 
+	}
+	local_supplies=6.0
+}

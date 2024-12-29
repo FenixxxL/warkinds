@@ -1,0 +1,24 @@
+state={
+	id=471
+	name="STATE_471"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = TBA
+		victory_points = {
+			3504 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = TBA
+	}
+	provinces={
+		877 955 1152 3504 
+	}
+	local_supplies=6.0
+}

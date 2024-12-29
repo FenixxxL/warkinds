@@ -1,0 +1,18 @@
+state={
+	id=78
+	name="STATE_78"
+	manpower=1
+	impassable = yes
+	state_category = wasteland
+	history={
+		owner = TFW
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = TFW
+	}
+	provinces={
+		92 106 114 656 840 929 1376 1602 1663 1767 2405
+	}
+	local_supplies=1.0
+}

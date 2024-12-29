@@ -1,0 +1,24 @@
+state={
+	id=457
+	name="STATE_457"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = RBA
+		victory_points = {
+			1789 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = RBA
+	}
+	provinces={
+		71 243 781 1719 1789 2378 3486 3487 3493 3497 
+	}
+	local_supplies=6.0
+}

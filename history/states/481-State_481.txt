@@ -1,0 +1,23 @@
+state={
+	id=481
+	name="STATE_481"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = RID
+		victory_points = {
+			247 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = RID
+	}
+	provinces={
+		190 195 247 1902 2554 
+	}
+	local_supplies=6.0
+}

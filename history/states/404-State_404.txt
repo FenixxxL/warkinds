@@ -1,0 +1,24 @@
+state={
+	id=404
+	name="STATE_404"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = TIE
+		victory_points = {
+			989 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = TIE
+	}
+	provinces={
+		655 921 989 1319 3330 3342 
+	}
+	local_supplies=6.0
+}

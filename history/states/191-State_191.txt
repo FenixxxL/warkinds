@@ -1,0 +1,24 @@
+state={
+	id=191
+	name="STATE_191"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = BAD
+		victory_points = {
+			618 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = BAD
+	}	
+	provinces={
+		155 241 350 618 912 1187 1341 1400 1447 1540 1631 2630 2637 2643 2651 2677 2686 2692 2705 
+	}
+	local_supplies=6.0
+}

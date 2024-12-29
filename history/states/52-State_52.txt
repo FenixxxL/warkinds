@@ -1,0 +1,24 @@
+state={
+	id=52
+	name="STATE_52"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = FAN
+		victory_points = {
+			2370 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = FAN
+	}
+	provinces={
+		842 2370 3193 
+	}
+	local_supplies=6.0
+}

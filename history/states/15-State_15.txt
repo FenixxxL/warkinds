@@ -1,0 +1,23 @@
+state={
+	id=15
+	name="STATE_15"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = HEY
+		victory_points = {
+			2421 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = HEY
+	}
+	provinces={
+		109 372 1514 2421 
+	}
+	local_supplies=6.0
+}

@@ -1,0 +1,24 @@
+state={
+	id=192
+	name="STATE_192"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = CHO
+		victory_points = {
+			871 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = CHO
+	}
+	provinces={
+		871 1988 2156 2661 2664 2672 2683 
+	}
+	local_supplies=6.0
+}

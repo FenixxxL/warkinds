@@ -1,0 +1,24 @@
+state={
+	id=131
+	name="STATE_131"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SLT
+		victory_points = {
+			512 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = SLT
+	}
+	provinces={
+		110 336 512 1056 1190 1262 1527 2073 2166 2490 2500 2507 2514 
+	}
+	local_supplies=6.0
+}

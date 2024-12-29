@@ -1,0 +1,24 @@
+state={
+	id=432
+	name="STATE_432"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = FOX
+		victory_points = {
+			1253 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = FOX
+	}
+	provinces={
+		287 566 692 854 1160 1253 1467 1529 1750 2160 3404 3408 3409 3414 
+	}
+	local_supplies=6.0
+}

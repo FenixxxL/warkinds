@@ -1,0 +1,23 @@
+state={
+	id=187
+	name="STATE_187"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = SAN
+		victory_points = {
+			384 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = SAN
+	}
+	provinces={
+		384 592 1085 1533 1534 2634 2668 
+	}
+	local_supplies=6.0
+}

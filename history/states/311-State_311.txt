@@ -1,0 +1,23 @@
+state={
+	id=311
+	name="STATE_311"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = LIW
+		victory_points = {
+			3023 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = LIW
+	}
+	provinces={
+		160 368 509 645 798 1326 1450 2048 2992 3022 3023 3046 
+	}
+	local_supplies=6.0
+}

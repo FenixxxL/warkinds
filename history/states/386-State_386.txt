@@ -1,0 +1,22 @@
+state={
+	id=386
+	name="STATE_386"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = PAT
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 4
+
+		}
+		add_core_of = PAT
+	}
+	provinces={
+		529 1058 2168 3318 
+	}
+	local_supplies=6.0
+}

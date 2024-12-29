@@ -1,0 +1,24 @@
+state={
+	id=144
+	name="STATE_144"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = RID
+		victory_points = {
+			1847 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = RID
+	}
+	provinces={
+		483 902 1481 1847 2520 2541 
+	}
+	local_supplies=6.0
+}

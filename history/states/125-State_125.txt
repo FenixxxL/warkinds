@@ -1,0 +1,23 @@
+state={
+	id=125
+	name="STATE_125"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = DIT
+		victory_points = {
+			584 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = DIT
+	}
+	provinces={
+		98 282 546 584 1023 2476 2501 
+	}
+	local_supplies=6.0
+}

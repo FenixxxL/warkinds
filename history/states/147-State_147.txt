@@ -1,0 +1,21 @@
+state={
+	id=147
+	name="STATE_147"
+	manpower=1240
+	impassable = yes	
+	state_category = wasteland
+	history={
+		owner = GWP
+		victory_points = {
+			2515 5
+		}
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = GWP
+	}
+	provinces={
+		317 531 206 952 1184 1396 1588 2515 2525 2526 
+	}
+	local_supplies=6.0
+}

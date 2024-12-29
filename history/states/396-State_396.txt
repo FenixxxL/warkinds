@@ -1,0 +1,24 @@
+state={
+	id=396
+	name="STATE_396"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = TIE
+		victory_points = {
+			1003 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = TIE
+	}
+	provinces={
+		84 1003 1308 1816 2316 
+	}
+	local_supplies=6.0
+}

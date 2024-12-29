@@ -1,0 +1,25 @@
+state={
+	id=278
+	name="STATE_278"
+	manpower = 150000
+		
+	state_category = town
+	history={
+		owner = HBR
+		victory_points = {
+			844 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = HBR
+	}
+	
+	provinces={
+		408 1236 2137 2358 
+	}
+	local_supplies=6.0
+}

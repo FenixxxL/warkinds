@@ -1,0 +1,24 @@
+state={
+	id=208
+	name="STATE_208"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = LIN
+		victory_points = {
+			2693 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = LIN
+	}
+	provinces={
+		41 1096 1239 2102 2267 2667 2693 2701 2717 2748 
+	}
+	local_supplies=6.0
+}

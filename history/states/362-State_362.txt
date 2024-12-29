@@ -1,0 +1,24 @@
+state={
+	id=362
+	name="STATE_362"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = CWC
+		victory_points = {
+			318 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = CWC
+	}
+	provinces={
+		210 306 1196 1300 1842 2163 3177 3178 3194 3214 3239 
+	}
+	local_supplies=6.0
+}

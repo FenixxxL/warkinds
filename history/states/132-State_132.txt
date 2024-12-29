@@ -1,0 +1,24 @@
+state={
+	id=132
+	name="STATE_132"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = RIV
+		victory_points = {
+			1502 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = RIV
+	}
+	provinces={
+		669 696 1247 1502 1735 1872 2374 2493 2503 
+	}
+	local_supplies=6.0
+}

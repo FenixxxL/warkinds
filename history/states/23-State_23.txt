@@ -1,0 +1,23 @@
+state={
+	id=23
+	name="STATE_23"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = BFT
+		victory_points = {
+			761 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = BFT
+	}
+	provinces={
+		761 1182 2426 2432 
+	}
+	local_supplies=6.0
+}

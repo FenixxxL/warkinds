@@ -1,0 +1,24 @@
+state={
+	id=454
+	name="STATE_454"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = YBA
+		victory_points = {
+			3473 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = YBA
+	}
+	provinces={
+		105 489 610 933 954 1686 2085 3464 3473 3478 3490 
+	}
+	local_supplies=6.0
+}

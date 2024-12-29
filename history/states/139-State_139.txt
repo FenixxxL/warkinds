@@ -1,0 +1,24 @@
+state={
+	id=139
+	name="STATE_139"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = TWI
+		victory_points = {
+			1270 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = TWI
+	}
+	provinces={
+		995 1270 1439 1639 
+	}
+	local_supplies=6.0
+}

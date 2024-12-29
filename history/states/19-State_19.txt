@@ -1,0 +1,23 @@
+state={
+	id=19
+	name="STATE_19"
+	manpower=23000
+	
+	state_category = small_island
+	history={
+		owner = TFW
+		victory_points = {
+			1102 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = TFW
+	}
+	provinces={
+		1102 1759 2424 3534 
+	}
+	local_supplies=6.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=387
+	name="STATE_387"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = HED
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 4
+
+		}
+		add_core_of = HED
+	}
+	provinces={
+		1764 3306 3311 3317 3324 
+	}
+	local_supplies=6.0
+}

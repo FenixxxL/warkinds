@@ -1,0 +1,23 @@
+state={
+	id=114
+	name="STATE_114"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = HWL
+		victory_points = {
+			2466 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = HWL
+	}
+	provinces={
+		221 316 561 1974 2466 2479 
+	}
+	local_supplies=6.0
+}

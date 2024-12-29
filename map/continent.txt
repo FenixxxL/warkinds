@@ -1,0 +1,7 @@
+continents = {
+	Mekkan
+	Western Mekkan
+	Eastern Mekkan
+	Basidian Islands
+	Frozen Wastes
+}

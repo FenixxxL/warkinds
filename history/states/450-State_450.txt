@@ -1,0 +1,24 @@
+state={
+	id=450
+	name="STATE_450"
+	manpower=23000
+	
+	state_category = town
+	history={
+		owner = NBA
+		victory_points = {
+			694 5
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = NBA
+	}
+	provinces={
+		81 309 347 694 795 980 1154 1246 1368 1492 2254 3438 3441 3443 3444 3451 3453 3457 
+	}
+	local_supplies=6.0
+}
