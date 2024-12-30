@@ -1,7 +1,7 @@
 NDefines = {
 
 NGame = {
-	START_DATE = "400.1.1.12",
+	START_DATE = "400.1.1.1",
 	END_DATE = "600.1.1.1",
 	MAP_SCALE_PIXEL_TO_KM = 7.114,					-- Yes, we did the math
 	SAVE_VERSION = 24,								-- 1.15.0 (unnamed)
